@@ -1,6 +1,6 @@
 module FirstProofs where
 
-import List 
+import Data.List 
 
 type GR =(Vs,Es)                -- graph 
 type Vs = [Int]                 -- vertices

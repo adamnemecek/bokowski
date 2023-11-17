@@ -1,6 +1,6 @@
 module FunctionsFundamental where
 
-import List 
+import Data.List 
 
 type MA =[[Integer]]            -- matrix
 type OB =(Tu,Or)                -- oriented base

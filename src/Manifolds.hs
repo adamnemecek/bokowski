@@ -1,6 +1,6 @@
 module Manifolds where
 
-import List
+import Data.List 
 
 type Star=(Int,[Int])           -- star  (vertex,link)
 

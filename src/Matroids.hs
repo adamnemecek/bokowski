@@ -1,6 +1,6 @@
 module FunctionsMatroid where 
 
-import List
+import Data.List 
 
 type OM2=[[Int]]                -- rank2 oriented matroid
 
