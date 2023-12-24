@@ -1,4 +1,4 @@
-module FirstProofs where
+module Bokowski.Rest where
 
 import Data.List
 

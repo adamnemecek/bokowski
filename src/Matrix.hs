@@ -1,4 +1,4 @@
-module FunctionsMatrix where
+module Bokowski.Matrix where
 
 import Data.List 
 

@@ -1,4 +1,4 @@
-module Manifolds where
+module Bokowski.Manifolds where
 
 import Data.List 
 

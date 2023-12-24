@@ -1,4 +1,4 @@
-module FunctionsPrimer where
+module Bokowski.Primer where
 
 -- Haskell primer function
 pythtriple::Integer->[[Integer]]

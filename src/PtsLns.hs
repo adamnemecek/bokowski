@@ -1,4 +1,4 @@
-module FunctionsConfigurations where
+module Bokowski.PtsLns where
 
 
 -- preliminary points, input for a 40_4 configuration

@@ -1,4 +1,4 @@
-module FunctionsFundamental where
+module Bokowski.Fundamental where
 
 import Data.List 
 

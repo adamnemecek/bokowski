@@ -1,4 +1,4 @@
-module FunctionsConstant where
+module Bokowski.Const where
 
 import Data.List 
 

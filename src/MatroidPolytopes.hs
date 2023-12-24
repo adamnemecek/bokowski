@@ -1,4 +1,4 @@
-module MatroidPolyotpeExtensions where
+module Bokowski.MatroidPolytopes where
 
 
 import Data.List

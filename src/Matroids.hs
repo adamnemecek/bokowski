@@ -1,4 +1,4 @@
-module FunctionsMatroid where 
+module Bokowski.Matroid where
 
 import Data.List 
 

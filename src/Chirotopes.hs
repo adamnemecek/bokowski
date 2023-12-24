@@ -1,3 +1,4 @@
+module Bokowski.Chirotopes where
 import Data.List 
 
 type MA =[[Integer]]            -- matrix

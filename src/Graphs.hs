@@ -1,4 +1,4 @@
-module FirstProofs where
+module Bokowski.Graphs where
 
 import Data.List 
 
